@@ -1,4 +1,4 @@
-# Insider JMeter
+# insider-jmeter
 ## _JMeter via Selenium WebDriver_
 
 ThreadGroup:
